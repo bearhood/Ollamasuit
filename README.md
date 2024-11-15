@@ -1,1 +1,4 @@
 # Ollamasuit
+
+
+open-webui serve
